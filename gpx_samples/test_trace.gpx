@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Test">
+  <trk>
+    <name>Test Track Paris</name>
+    <trkseg>
+      <!-- Champs-Élysées vers Louvre -->
+      <trkpt lat="48.8738" lon="2.2950">
+        <ele>35</ele>
+      </trkpt>
+      <trkpt lat="48.8700" lon="2.3000">
+        <ele>36</ele>
+      </trkpt>
+      <trkpt lat="48.8670" lon="2.3100">
+        <ele>37</ele>
+      </trkpt>
+      <trkpt lat="48.8640" lon="2.3200">
+        <ele>38</ele>
+      </trkpt>
+      <trkpt lat="48.8600" lon="2.3300">
+        <ele>39</ele>
+      </trkpt>
+      <trkpt lat="48.8570" lon="2.3400">
+        <ele>40</ele>
+      </trkpt>
+      <trkpt lat="48.8566" lon="2.3522">
+        <ele>41</ele>
+      </trkpt>
+      <trkpt lat="48.8567" lon="2.3523">
+        <ele>42</ele>
+      </trkpt>
+      <trkpt lat="48.8568" lon="2.3524">
+        <ele>43</ele>
+      </trkpt>
+      <trkpt lat="48.8600" lon="2.3550">
+        <ele>44</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx> 
