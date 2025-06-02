@@ -9,8 +9,8 @@
 /coverage
 
 # next.js
-/.next/
-/out/
+frontend/.next/
+frontend/out/
 
 # production
 /build
@@ -36,9 +36,9 @@ yarn-error.log*
 
 ### Python template
 # Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
 
 # C extensions
 *.so
@@ -119,13 +119,13 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+backend/.env
+backend/.venv
+backend/env/
+backend/venv/
+backend/ENV/
+backend/env.bak/
+backend/venv.bak/
 
 # Spyder project settings
 .spyderproject
